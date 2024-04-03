@@ -1,0 +1,78 @@
+step response of passive system 
+
+(tire position)
+
+
+         RiseTime: 0.0427
+    TransientTime: 1.2198
+     SettlingTime: 1.2198
+      SettlingMin: 0.9413
+      SettlingMax: 1.1019
+        Overshoot: 10.1740
+       Undershoot: 0
+             Peak: 1.1019
+         PeakTime: 0.3300
+
+
+(body position)
+
+  	   RiseTime: 0.1232
+    TransientTime: 2.7178
+     SettlingTime: 2.7178
+      SettlingMin: 0.6392
+      SettlingMax: 1.6259
+        Overshoot: 62.4572
+       Undershoot: 1.2944e-75
+             Peak: 1.6259
+         PeakTime: 0.3600
+
+
+Step_Info_of_the_Body_Displacements_PAS = 
+  struct with fields:
+
+         RiseTime: 0
+    TransientTime: 2.7547
+     SettlingTime: 2.7338
+      SettlingMin: 0.1251
+      SettlingMax: 1.6347
+        Overshoot: 63.3134
+       Undershoot: 0
+             Peak: 1.6347
+         PeakTime: 0.3580
+Step_Info_of_the_Body_Displacements_ACT = 
+  struct with fields:
+
+         RiseTime: 0
+    TransientTime: 1.1755
+     SettlingTime: 1.1614
+      SettlingMin: 0.1268
+      SettlingMax: 1.4815
+        Overshoot: 48.1533
+       Undershoot: 0
+             Peak: 1.4815
+         PeakTime: 0.3480
+Step_Info_of_the_Body_Displacements_PAS = 
+  struct with fields:
+
+         RiseTime: 0
+    TransientTime: 1.9638
+     SettlingTime: 1.5150
+      SettlingMin: 0.5766
+      SettlingMax: 1.1032
+        Overshoot: 10.3068
+       Undershoot: 0
+             Peak: 1.1032
+         PeakTime: 0.3310
+Step_Info_of_the_Body_Displacements_ACT = 
+  struct with fields:
+
+         RiseTime: 0
+    TransientTime: 1.0403
+     SettlingTime: 0.7554
+      SettlingMin: 0.5758
+      SettlingMax: 1.0960
+        Overshoot: 9.5980
+       Undershoot: 0
+             Peak: 1.0960
+         PeakTime: 0.3220
+>> 
