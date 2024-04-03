@@ -1,4 +1,4 @@
-To run the codes and replicate the results, please follow the following guidelines:
+- To run the codes and replicate the results, please follow the following guidelines:
 
 1- Folder "DRL agent" contains the trained agent and the code used for training and running the model.
 
